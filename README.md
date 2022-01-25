@@ -6,6 +6,7 @@
  pip install numpy
  </pre>
  </code>
+  
 CIFAR-10: https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz  
 CIFAR-100: https://www.cs.toronto.edu/~kriz/cifar-100-python.tar.gz  
   
