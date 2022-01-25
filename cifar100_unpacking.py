@@ -1,7 +1,7 @@
 from PIL import Image
 import numpy as np
-import os
 import pickle
+import os
 
 
 def unpickle(file):
