@@ -1,6 +1,6 @@
 # CIFAR10, CIFAR100 Dataset image downloader  
    
- You need Numpy!
+ You need Numpy!  
      pip install numpy
  
 CIFAR-10: https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz  
